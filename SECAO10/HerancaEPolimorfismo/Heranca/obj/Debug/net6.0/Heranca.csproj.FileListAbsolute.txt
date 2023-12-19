@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\bin\Debug\net6.0\Heranca.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\bin\Debug\net6.0\Heranca.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\bin\Debug\net6.0\Heranca.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\bin\Debug\net6.0\Heranca.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\bin\Debug\net6.0\ref\Heranca.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\bin\Debug\net6.0\Heranca.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\ref\Heranca.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache

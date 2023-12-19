@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\bin\Debug\net6.0\ExAbstratoProposto.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\bin\Debug\net6.0\ExAbstratoProposto.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\bin\Debug\net6.0\ExAbstratoProposto.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\bin\Debug\net6.0\ExAbstratoProposto.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\bin\Debug\net6.0\ref\ExAbstratoProposto.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\bin\Debug\net6.0\ExAbstratoProposto.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ref\ExAbstratoProposto.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ExAbstratoProposto\obj\Debug\net6.0\ExAbstratoProposto.genruntimeconfig.cache

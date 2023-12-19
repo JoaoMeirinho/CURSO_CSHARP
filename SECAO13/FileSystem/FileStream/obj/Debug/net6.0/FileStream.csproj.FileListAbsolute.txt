@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\bin\Debug\net6.0\FileStream.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\bin\Debug\net6.0\FileStream.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\bin\Debug\net6.0\FileStream.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\bin\Debug\net6.0\FileStream.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\bin\Debug\net6.0\ref\FileStream.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\bin\Debug\net6.0\FileStream.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\ref\FileStream.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileStream\obj\Debug\net6.0\FileStream.genruntimeconfig.cache

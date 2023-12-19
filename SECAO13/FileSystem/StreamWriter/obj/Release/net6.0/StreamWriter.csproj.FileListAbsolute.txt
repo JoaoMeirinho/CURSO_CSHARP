@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\bin\Release\net6.0\StreamWriter.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\bin\Release\net6.0\StreamWriter.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\bin\Release\net6.0\StreamWriter.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\bin\Release\net6.0\StreamWriter.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\bin\Release\net6.0\ref\StreamWriter.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\bin\Release\net6.0\StreamWriter.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\ref\StreamWriter.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\StreamWriter\obj\Release\net6.0\StreamWriter.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\bin\Debug\net6.0\ExLista.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\bin\Debug\net6.0\ExLista.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\bin\Debug\net6.0\ExLista.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\bin\Debug\net6.0\ExLista.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\bin\Debug\net6.0\ref\ExLista.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\bin\Debug\net6.0\ExLista.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ref\ExLista.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExLista\ExLista\obj\Debug\net6.0\ExLista.genruntimeconfig.cache

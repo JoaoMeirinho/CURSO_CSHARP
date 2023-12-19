@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\bin\Debug\net6.0\Sobrescrita.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\bin\Debug\net6.0\Sobrescrita.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\bin\Debug\net6.0\Sobrescrita.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\bin\Debug\net6.0\Sobrescrita.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\bin\Debug\net6.0\ref\Sobrescrita.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\bin\Debug\net6.0\Sobrescrita.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\ref\Sobrescrita.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\Sobrescrita\obj\Debug\net6.0\Sobrescrita.genruntimeconfig.cache

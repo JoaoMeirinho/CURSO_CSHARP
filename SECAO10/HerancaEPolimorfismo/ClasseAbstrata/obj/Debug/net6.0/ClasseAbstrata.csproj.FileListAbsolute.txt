@@ -1,0 +1,14 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\bin\Debug\net6.0\ref\ClasseAbstrata.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ref\ClasseAbstrata.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO10\HerancaEPolimorfismo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.genruntimeconfig.cache

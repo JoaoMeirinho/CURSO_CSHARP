@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ffc5a36-d0b1-41b5-8e84-8cf398632b75": {
+      "ProjectGuid": "8ffc5a36-d0b1-41b5-8e84-8cf398632b75",
+      "DisplayName": "FileSystem",
+      "ColorIndex": 0
+    },
+    "4c51c6a2-cd98-40dd-879f-db8f2d44af4e": {
+      "ProjectGuid": "4c51c6a2-cd98-40dd-879f-db8f2d44af4e",
+      "DisplayName": "FileStream",
+      "ColorIndex": 1
+    },
+    "ca1a18d7-092a-4280-aca5-bd39107bca85": {
+      "ProjectGuid": "ca1a18d7-092a-4280-aca5-bd39107bca85",
+      "DisplayName": "BlocoUsing",
+      "ColorIndex": 2
+    },
+    "c973c487-6b59-4c44-bc45-19c82259f11d": {
+      "ProjectGuid": "c973c487-6b59-4c44-bc45-19c82259f11d",
+      "DisplayName": "StreamWriter",
+      "ColorIndex": 3
+    },
+    "4d2c2855-bbbd-4cb6-bf8b-067af7881e06": {
+      "ProjectGuid": "4d2c2855-bbbd-4cb6-bf8b-067af7881e06",
+      "DisplayName": "Directory",
+      "ColorIndex": 4
+    },
+    "c559c148-11bd-4ec8-a257-02feb303d1c9": {
+      "ProjectGuid": "c559c148-11bd-4ec8-a257-02feb303d1c9",
+      "DisplayName": "Path",
+      "ColorIndex": 5
+    },
+    "19e51128-4a1a-4ba6-a6f5-2e34af382ac5": {
+      "ProjectGuid": "19e51128-4a1a-4ba6-a6f5-2e34af382ac5",
+      "DisplayName": "ExReadCsv",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

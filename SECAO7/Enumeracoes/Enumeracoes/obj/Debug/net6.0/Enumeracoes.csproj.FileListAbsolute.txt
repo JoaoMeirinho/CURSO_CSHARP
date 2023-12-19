@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\bin\Debug\net6.0\ref\Enumeracoes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\ref\Enumeracoes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.genruntimeconfig.cache

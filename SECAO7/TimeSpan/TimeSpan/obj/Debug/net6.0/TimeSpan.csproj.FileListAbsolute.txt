@@ -1,0 +1,14 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\bin\Debug\net6.0\TimeSpan.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\bin\Debug\net6.0\TimeSpan.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\bin\Debug\net6.0\TimeSpan.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\bin\Debug\net6.0\TimeSpan.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\bin\Debug\net6.0\ref\TimeSpan.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\bin\Debug\net6.0\TimeSpan.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\ref\TimeSpan.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.genruntimeconfig.cache

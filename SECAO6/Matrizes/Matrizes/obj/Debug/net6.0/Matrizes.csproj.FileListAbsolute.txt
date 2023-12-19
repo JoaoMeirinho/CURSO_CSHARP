@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\bin\Debug\net6.0\ref\Matrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache

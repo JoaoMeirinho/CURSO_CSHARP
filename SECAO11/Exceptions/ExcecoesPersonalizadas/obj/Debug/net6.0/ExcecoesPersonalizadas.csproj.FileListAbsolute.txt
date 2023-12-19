@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\bin\Debug\net6.0\ExcecoesPersonalizadas.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\bin\Debug\net6.0\ExcecoesPersonalizadas.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\bin\Debug\net6.0\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\bin\Debug\net6.0\ExcecoesPersonalizadas.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\bin\Debug\net6.0\ref\ExcecoesPersonalizadas.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\bin\Debug\net6.0\ExcecoesPersonalizadas.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ref\ExcecoesPersonalizadas.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO11\Exceptions\ExcecoesPersonalizadas\obj\Debug\net6.0\ExcecoesPersonalizadas.genruntimeconfig.cache

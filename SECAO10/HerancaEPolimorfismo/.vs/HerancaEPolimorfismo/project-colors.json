@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad2cf0c9-3fd1-47bd-8a8b-3c9108b7a801": {
+      "ProjectGuid": "ad2cf0c9-3fd1-47bd-8a8b-3c9108b7a801",
+      "DisplayName": "Heranca",
+      "ColorIndex": 0
+    },
+    "0283ba6c-c8bb-464a-89d7-35b20b261be9": {
+      "ProjectGuid": "0283ba6c-c8bb-464a-89d7-35b20b261be9",
+      "DisplayName": "UpAndDownCasting",
+      "ColorIndex": 1
+    },
+    "c64a7170-46c5-4a5c-8748-21821c55a023": {
+      "ProjectGuid": "c64a7170-46c5-4a5c-8748-21821c55a023",
+      "DisplayName": "Sobrescrita",
+      "ColorIndex": 2
+    },
+    "3f962782-9520-4107-af30-7aadb61d79c9": {
+      "ProjectGuid": "3f962782-9520-4107-af30-7aadb61d79c9",
+      "DisplayName": "Selado",
+      "ColorIndex": 3
+    },
+    "bfc39ec4-1210-463a-b0c4-798d8dca0376": {
+      "ProjectGuid": "bfc39ec4-1210-463a-b0c4-798d8dca0376",
+      "DisplayName": "ExPolimorfismoResolvido",
+      "ColorIndex": 4
+    },
+    "e3dd1609-9992-43b0-9aa7-699cf7b79e0b": {
+      "ProjectGuid": "e3dd1609-9992-43b0-9aa7-699cf7b79e0b",
+      "DisplayName": "ExPolimorfismoProposto",
+      "ColorIndex": 5
+    },
+    "5c26fb26-50c5-442d-b4a9-339483b1a7e8": {
+      "ProjectGuid": "5c26fb26-50c5-442d-b4a9-339483b1a7e8",
+      "DisplayName": "ClasseAbstrata",
+      "ColorIndex": 6
+    },
+    "d611f6f1-a7ad-4041-ace4-47fd57f9a944": {
+      "ProjectGuid": "d611f6f1-a7ad-4041-ace4-47fd57f9a944",
+      "DisplayName": "ExAbstratoResolvido",
+      "ColorIndex": 7
+    },
+    "ba1a5fdf-4c4a-4adf-a7d8-52693a2f237b": {
+      "ProjectGuid": "ba1a5fdf-4c4a-4adf-a7d8-52693a2f237b",
+      "DisplayName": "ExAbstratoProposto",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

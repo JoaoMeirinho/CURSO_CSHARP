@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\bin\Debug\net6.0\cursoCSharp.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\bin\Debug\net6.0\cursoCSharp.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\bin\Debug\net6.0\cursoCSharp.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\bin\Debug\net6.0\cursoCSharp.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\bin\Debug\net6.0\ref\cursoCSharp.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\bin\Debug\net6.0\cursoCSharp.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\ref\cursoCSharp.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\cursoCSharp\cursoCSharp\obj\Debug\net6.0\cursoCSharp.genruntimeconfig.cache

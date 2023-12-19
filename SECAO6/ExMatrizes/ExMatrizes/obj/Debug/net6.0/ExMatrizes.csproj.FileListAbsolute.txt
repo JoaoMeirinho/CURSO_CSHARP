@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\bin\Debug\net6.0\ExMatrizes.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\bin\Debug\net6.0\ExMatrizes.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\bin\Debug\net6.0\ExMatrizes.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\bin\Debug\net6.0\ExMatrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\bin\Debug\net6.0\ref\ExMatrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\bin\Debug\net6.0\ExMatrizes.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ref\ExMatrizes.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO6\ExMatrizes\ExMatrizes\obj\Debug\net6.0\ExMatrizes.genruntimeconfig.cache

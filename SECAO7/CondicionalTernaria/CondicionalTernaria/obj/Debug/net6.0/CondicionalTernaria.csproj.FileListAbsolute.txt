@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\ref\CondicionalTernaria.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\ref\CondicionalTernaria.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.genruntimeconfig.cache

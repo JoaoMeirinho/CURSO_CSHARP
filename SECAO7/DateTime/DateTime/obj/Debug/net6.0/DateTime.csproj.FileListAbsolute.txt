@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\bin\Debug\net6.0\ref\DateTime.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\ref\DateTime.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO7\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache

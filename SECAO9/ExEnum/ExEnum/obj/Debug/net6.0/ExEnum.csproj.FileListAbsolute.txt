@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\bin\Debug\net6.0\ref\ExEnum.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\bin\Debug\net6.0\ExEnum.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ref\ExEnum.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO9\ExEnum\ExEnum\obj\Debug\net6.0\ExEnum.genruntimeconfig.cache

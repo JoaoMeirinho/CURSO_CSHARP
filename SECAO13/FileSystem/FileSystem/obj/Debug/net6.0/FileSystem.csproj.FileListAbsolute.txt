@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\bin\Debug\net6.0\FileSystem.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\bin\Debug\net6.0\FileSystem.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\bin\Debug\net6.0\FileSystem.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\bin\Debug\net6.0\FileSystem.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\bin\Debug\net6.0\ref\FileSystem.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\bin\Debug\net6.0\FileSystem.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\ref\FileSystem.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO13\FileSystem\FileSystem\obj\Debug\net6.0\FileSystem.genruntimeconfig.cache

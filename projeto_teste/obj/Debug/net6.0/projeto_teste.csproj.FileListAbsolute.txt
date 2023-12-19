@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\bin\Debug\net6.0\projeto_teste.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\bin\Debug\net6.0\projeto_teste.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\bin\Debug\net6.0\projeto_teste.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\bin\Debug\net6.0\projeto_teste.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\bin\Debug\net6.0\ref\projeto_teste.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\bin\Debug\net6.0\projeto_teste.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\ref\projeto_teste.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\projeto_teste\obj\Debug\net6.0\projeto_teste.genruntimeconfig.cache

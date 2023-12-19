@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\bin\Debug\net6.0\Nullable.exe
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\bin\Debug\net6.0\Nullable.deps.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\bin\Debug\net6.0\Nullable.runtimeconfig.json
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\bin\Debug\net6.0\Nullable.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\bin\Debug\net6.0\ref\Nullable.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\bin\Debug\net6.0\Nullable.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfo.cs
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\ref\Nullable.dll
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.pdb
+C:\Users\joao_\Documents\CURSOS\CURSO_C_SHARP\SECAO5\Nullable\Nullable\obj\Debug\net6.0\Nullable.genruntimeconfig.cache
