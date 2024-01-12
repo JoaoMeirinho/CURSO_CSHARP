@@ -10,7 +10,12 @@
       "ProjectGuid": "116ea46c-59f4-4b63-b344-a2a2195bcb4a",
       "DisplayName": "ExInterface",
       "ColorIndex": 1
+    },
+    "30a4f93d-5bde-493d-bfcf-34bd15a6f4f2": {
+      "ProjectGuid": "30a4f93d-5bde-493d-bfcf-34bd15a6f4f2",
+      "DisplayName": "Icompar",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
