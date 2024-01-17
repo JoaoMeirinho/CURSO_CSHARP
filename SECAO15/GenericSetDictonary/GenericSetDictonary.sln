@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareHash", "CompareHash\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExResolvidoConjuntos", "ExResolvidoConjuntos\ExResolvidoConjuntos.csproj", "{5CE6A28C-BFF5-414E-9E8A-92B8C6C53CB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPropostoConjuntos", "ExPropostoConjuntos\ExPropostoConjuntos.csproj", "{58FF7A34-7940-4E0C-9E75-4184AFA79C08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExPropostoConjuntos", "ExPropostoConjuntos\ExPropostoConjuntos.csproj", "{58FF7A34-7940-4E0C-9E75-4184AFA79C08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{C1BD493A-AB4F-41CF-9ABC-F4938200D40F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{C1BD493A-AB4F-41CF-9ABC-F4938200D40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPropostoDictionary", "ExPropostoDictionary\ExPropostoDictionary.csproj", "{37CB4901-E64E-419A-B07A-3B68FFCE5B11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C1BD493A-AB4F-41CF-9ABC-F4938200D40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1BD493A-AB4F-41CF-9ABC-F4938200D40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1BD493A-AB4F-41CF-9ABC-F4938200D40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CB4901-E64E-419A-B07A-3B68FFCE5B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CB4901-E64E-419A-B07A-3B68FFCE5B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CB4901-E64E-419A-B07A-3B68FFCE5B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CB4901-E64E-419A-B07A-3B68FFCE5B11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
