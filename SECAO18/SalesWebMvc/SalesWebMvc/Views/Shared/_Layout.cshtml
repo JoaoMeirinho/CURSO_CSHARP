@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - SalesWebMvc</title>
 
-    <environment include="Development">
-        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-flatly.css" />
-        <link rel="stylesheet" href="~/css/site.css" />
-    </environment>
     <environment exclude="Development">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
               asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
               asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
         <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-flatly.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
     </environment>
 </head>
 <body>
@@ -28,8 +28,8 @@
                 </button>
                 <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">SalesWebMvc</a>
             </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
+            <div class="navbar-collapse collapse ">
+                <ul class="nav navbar-nav navbar-right">
                     <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
                     <li><a asp-area="" asp-controller="Departments" asp-action="Index">Departments</a></li>
                     <li><a asp-area="" asp-controller="Sellers" asp-action="Index">Sellers</a></li>
@@ -45,7 +45,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2024 - SalesWebMvc</p>
+            <p class="text-center small">&copy; 2024 - SalesWebMvc</p>
         </footer>
     </div>
 

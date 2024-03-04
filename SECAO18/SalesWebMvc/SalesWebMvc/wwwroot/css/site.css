@@ -8,8 +8,8 @@ body {
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 /* Carousel */
@@ -28,6 +28,14 @@ body {
     margin: 15px;
 }
 
+li{
+    margin-right: 2.5rem;
+}
+
+a{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
     /* Hide captions */
